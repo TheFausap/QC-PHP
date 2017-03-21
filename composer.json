@@ -1,0 +1,6 @@
+{
+	"require": {
+		"numphp/numphp": "^1.1",
+		"markrogoyski/math-php": "0.*"
+	}
+}
